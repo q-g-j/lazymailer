@@ -1,0 +1,9 @@
+/contacts_template.db
+/lazymailer.spec
+/smtp_template.db
+/.idea
+/.vscode
+/build
+/dist
+/venv
+__pycache__
