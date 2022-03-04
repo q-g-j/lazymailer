@@ -1,7 +1,7 @@
 # Lazymailer
 
 **A small E-Mail program written in Python / Tkinter.**</br><br/>
-It allows to send pre-written e-mails to an editable list of recepients per simple click .</br>
+The purpose of the program is to send repetitive messages to a selected list of recipients with a simple click.</br>
 All data is stored in sqlite databases in the user's home folder (e.g. AppData\Roaming in Windows).
 
 ### Features:
